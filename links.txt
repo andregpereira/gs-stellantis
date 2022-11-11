@@ -1,0 +1,5 @@
+Back-end
+http://localhost:8080/veiculo/
+
+Front-end
+http://localhost:8082/veiculo/lista
